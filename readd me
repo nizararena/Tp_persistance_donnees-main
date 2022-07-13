@@ -1,0 +1,4 @@
+install composer 
+and start the porject with php -S localhost:8000 -t public  in cmd
+
+Install xammp and creat a DB named laravel to store the data
